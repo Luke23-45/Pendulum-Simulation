@@ -45,7 +45,7 @@ This project uses `make` for building. To build the project, run the following c
    ```
 4. Run the executable:
    ```bash
-   ./pendulum_simulation
+   ./main
    ```
 5. In Window:
    ```bash
